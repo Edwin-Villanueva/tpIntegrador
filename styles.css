@@ -1,0 +1,22 @@
+#nav a{
+    color: white;
+
+}
+#nav {
+    padding-left: 5%;
+}
+#divImage{
+    background-image: url("./imagenes/ba1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ulFooter{
+    display: flex;
+    list-style: none;
+}
+#ulFooter li{
+    float: left;
+}
+#ulFooter a{
+    color: white;
+}
